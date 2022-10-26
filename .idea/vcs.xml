@@ -4,7 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spring-12-Cinema" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Spring-13-Data-CinemaLab" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-11-Data-TableCreation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-12-Data-Relationship" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-13-cinema-lab" vcs="Git" />

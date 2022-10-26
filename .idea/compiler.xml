@@ -16,7 +16,6 @@
         <module name="spring-08-MVC-Controller" />
         <module name="spring-10-thymeleaf" />
         <module name="spring-02-Core-IoC-Stereotype-Annotation" />
-        <module name="Spring-13-Data-CinemaLab" />
         <module name="spring-12-Data-Relationship" />
         <module name="Spring-12-Cinema" />
         <module name="spring-04-Autowiring" />
@@ -27,6 +26,7 @@
     <bytecodeTargetLevel>
       <module name="spring-13-cinemaLab" target="11" />
       <module name="Spring-13-CinemaLab" target="11" />
+      <module name="Spring-13-Data-CinemaLab" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
