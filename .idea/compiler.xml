@@ -16,6 +16,7 @@
         <module name="spring-08-MVC-Controller" />
         <module name="spring-10-thymeleaf" />
         <module name="spring-02-Core-IoC-Stereotype-Annotation" />
+        <module name="Spring-13-Data-CinemaLab" />
         <module name="spring-12-Data-Relationship" />
         <module name="Spring-12-Cinema" />
         <module name="spring-04-Autowiring" />
@@ -32,6 +33,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-12-Cinema" options="-parameters" />
       <module name="Spring-13-CinemaLab" options="-parameters" />
+      <module name="Spring-13-Data-CinemaLab" options="-parameters" />
       <module name="spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="spring-08-MVC-Controller" options="-parameters" />
       <module name="spring-09-MVC-model" options="-parameters" />
